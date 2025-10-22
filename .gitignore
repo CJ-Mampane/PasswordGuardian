@@ -1,0 +1,11 @@
+# Encryption key
+key.key
+
+# Saved passwords
+saved_passwords.json
+
+# Python cache
+__pycache__/
+
+# IDE files
+.vscode/
